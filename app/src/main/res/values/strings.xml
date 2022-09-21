@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" >Video Downloader For Youtube</string>
+    <string name="for_youtube">For Youtube</string>
+    <string name="enter_youtube_video_url">Enter Youtube video Url</string>
+    <string name="download">Download</string>
+    <string name="clean">Clean</string>
+    <string name="free_youtube_video_downloader">Free Youtube Video Downloader</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="textStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">@dimen/textSize20</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/ic_launcher_background</item>
+    </style>
+
+
+    <style name="buttonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button_bg</item>
+        <item name="android:textSize">@dimen/textSize20</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:elevation">@dimen/a20</item>
+        <item name="android:textColor">@color/ic_launcher_background</item>
+
+    </style>
+
+</resources>
